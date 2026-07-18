@@ -63,7 +63,7 @@
 
 - 📧 Email: **codepradeep07@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/pradeep-pandit-1b6723325/
-- 🌐 Portfolio: Coming Soon 🚀  
+- 🌐 Portfolio: https://pradeep-pandit.netlify.app/  
 
 ---
 
