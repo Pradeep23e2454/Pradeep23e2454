@@ -21,6 +21,14 @@ Email Me 👉 ✉️ **codepradeep07@gmail.com** For Collaboration/Project or An
 ![](https://streak-stats.demolab.com/?user=pandit-pradeep&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pandit-pradeep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🔥 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandit-pradeep&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/pandit-pradeep/pandit-pradeep/output/github-contribution-grid-snake.svg" />
 </p>
